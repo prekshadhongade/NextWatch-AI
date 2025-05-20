@@ -98,6 +98,4 @@ streamlit run app.py
 Feel free to connect or collaborate!
 Made with ❤️ by [Preksha Dhongade](https://github.com/prekshadhongade)
 
-```
 
---
